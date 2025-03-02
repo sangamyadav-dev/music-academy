@@ -1,6 +1,9 @@
 import { FeatureSection } from "@/components/FeatureSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import InfiniateMoving from "@/components/InfiniateMoving";
+import Instractor from "@/components/Instractor";
+import UpcomingWebinar from "@/components/UpcomingWebinar";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 
@@ -11,6 +14,9 @@ export default function Home() {
       <FeatureSection/>
       <WhyChooseUs/>
       <InfiniateMoving/>
+      <UpcomingWebinar/>
+      <Instractor/>
+      <Footer/>
     </main>
   );
 }
