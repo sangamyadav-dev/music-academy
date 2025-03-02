@@ -133,4 +133,18 @@ The app will be hosted on **Vercel**, a platform optimized for Next.js, ensuring
 
 This project plan allows for building a feature-rich platform for music learners and instructors, providing an engaging user experience and the flexibility to scale as needed.
 
-Would you like any more specific details or help with a part of this project?
+some assets 
+
+![music acadmey](https://github.com/user-attachments/assets/2ddaafdb-79bf-45bf-9083-d3381b28329b)
+
+![music-acadmey-2](https://github.com/user-attachments/assets/a58c32c2-42f5-484d-9781-d2f9df29d3c2)
+
+![Music Academy 3](https://github.com/user-attachments/assets/ab1c009d-675e-42b9-b534-76c0bb49be42)
+
+![Music Academy 4](https://github.com/user-attachments/assets/98ee98b7-5ac6-413e-88da-f6f1f0ca1194)
+
+![Music Academy 5](https://github.com/user-attachments/assets/fcbf4157-b789-49a5-89ab-2474bf1b1e4b)
+
+
+
+
